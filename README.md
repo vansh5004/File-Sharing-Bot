@@ -4,13 +4,13 @@
   <a href="https://www.python.org">
     <img src="http://ForTheBadge.com/images/badges/made-with-python.svg" width ="250">
   </a>
-  <a href="https://t.me/CodeXBotz">
+  <a href="https://t.me/rudraraut">
     <img src="https://github.com/CodeXBotz/PyrogramGenStr/blob/main/resources/madebycodex-badge.svg" width="250">
   </a><br>
-  <a href="https://t.me/CodeXBotz">
+  <a href="https://t.me/rudraraut">
     &nbsp;<img src="https://img.shields.io/badge/Code%20%F0%9D%95%8F%20Botz-Channel-blue?style=flat-square&logo=telegram" width="130" height="18">&nbsp;
   </a>
-  <a href="https://t.me/codexbotzsupport">
+  <a href="[https://t.me/+_iY2Nubh_fo1Y2Zl]">
     &nbsp;<img src="https://img.shields.io/badge/Code%20%F0%9D%95%8F%20Botz-Group-blue?style=flat-square&logo=telegram" width="130" height="18">&nbsp;
   </a>
   <br>
@@ -28,7 +28,7 @@ I Guess This Will Be Usefull For Many People.....😇.
 
 ##
 
-**If you need any more modes in repo or If you find out any bugs, mention in [@codexbotzsupport ](https://www.telegram.dog/codexbotzsupport)**
+**If you need any more modes in repo or If you find out any bugs, mention in [@rudraraut ](https://t.me/+_iY2Nubh_fo1Y2Zl)**
 
 **Make sure to see [contributing.md](https://github.com/CodeXBotz/File-Sharing-Bot/blob/main/CONTRIBUTING.md) for instructions on contributing to the project!**
 
@@ -54,8 +54,6 @@ I Guess This Will Be Usefull For Many People.....😇.
   <img src="https://img.shields.io/badge/How%20to-Deploy-red?logo=youtube" width="147">
 </a><br>
 **Check This Tutorial Video on YouTube for any Help**<br>
-**Thanks to [Erich](https://t.me/ErichDaniken) and his [InFoTel](https://t.me/InFoTel_Group) for this Video**
-
 #### Deploy on Railway
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/1jKLr4)
 
