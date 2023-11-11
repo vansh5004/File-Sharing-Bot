@@ -91,7 +91,7 @@ async def start_command(client: Client, message: Message):
                     InlineKeyboardButton("😊 ᴀʙᴏᴜᴛ Mᴇ", callback_data = "about"),
                     InlineKeyboardButton("🔒 Cʟᴏsᴇ", callback_data = "close")
                 ],[
-                    InlineKeyboardButton("Pʀᴇᴍɪᴜᴍ", callback_data = "premium")
+                    InlineKeyboardButton("Pʀᴇᴍɪᴜᴍ", url="https:t.me/vip_bro10")
             ]
         )
         await message.reply_text(
