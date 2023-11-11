@@ -20,6 +20,17 @@ async def cb_handler(client: Bot, query: CallbackQuery):
                 ]
             )
         )
+    elif data == "premium":
+        await query.message.delete()
+        [[
+            InlineKeyboardButton("1 Month", url="https://t.me/vip_bro1"), 
+            InlineKeyboardButton("1 Weak", url="https://t.me/vip_bro1")
+            ],[      
+            InlineKeyboardButton("1 Day", url="https://t.me/vip_bro1"),
+            InlineKeyboardButton("12 Hours", url="https://t.me/vip_bro1")
+        ],[
+            InlineKeyboardButton("Premium Buy Contact", url="https://t.me/vip_bro1")
+        ]]
     elif data == "close":
         await query.message.delete()
         try:
