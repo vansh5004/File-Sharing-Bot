@@ -9,30 +9,22 @@ from logging.handlers import RotatingFileHandler
 
 
 
-#Bot token @Botfather
+# Bot Required Information 
 TG_BOT_TOKEN = os.environ.get("TG_BOT_TOKEN", "")
-
-#Your API ID from my.telegram.org
 APP_ID = int(os.environ.get("APP_ID", ""))
-
-#Your API Hash from my.telegram.org
 API_HASH = os.environ.get("API_HASH", "")
-
-#Your db channel Id
 CHANNEL_ID = int(os.environ.get("CHANNEL_ID", ""))
-
-#OWNER ID
 OWNER_ID = int(os.environ.get("OWNER_ID", ""))
-
-#Port
 PORT = os.environ.get("PORT", "8080")
-
-#Database 
 DB_URI = os.environ.get("DATABASE_URL", "")
 DB_NAME = os.environ.get("DATABASE_NAME", "filesharexbot")
-
-#force sub channel id, if you want enable force sub
 FORCE_SUB_CHANNEL = int(os.environ.get("FORCE_SUB_CHANNEL", "0"))
+
+# URL Shortner
+VERIFY = bool(environ.get('VERIFY', True))
+SHORTLINK_URL = environ.get('SHORTLINK_URL', 'gplinks.in')
+SHORTLINK_API = environ.get('SHORTLINK_API', '9194ef84c5f3a615b4953c80909583eb114f8780')
+IS_SHORTLINK = bool(environ.get('IS_SHORTLINK', True))
 
 TG_BOT_WORKERS = int(os.environ.get("TG_BOT_WORKERS", "4"))
 
